@@ -1,0 +1,11 @@
+*.zip
+*.txt
+*.png
+*.jpeg
+*.log
+*.xsd
+docs
+old
+phpMyAdmin
+sponsors
+w

@@ -1,0 +1,99 @@
+html {
+	position: relative;
+	background-color: #151515;
+}
+body {
+	transform: translateY(25%);
+	background-color: #151515;
+	margin: 0px auto 0px auto;
+	padding: 25px 0 50px
+}
+
+.container {
+	-webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.logo {
+	padding: 0px;
+	margin: 0px;
+	margin-top: 25px;
+}
+.container {
+	margin: 0px;
+	padding: 0px;
+}
+#divtop {
+	height: 1;
+	padding: 0px;
+	margin: 25px 0 50px 0;
+}
+
+#divbot {
+	padding: 0px;
+	margin: 50px 0 40px 0;
+}
+
+.text {
+	font-family: "Lato", sans-serif;
+	text-transform: uppercase;
+	padding: 0px;
+	margin: 0px;
+	margin-bottom: 10px;
+}
+.callout {
+	font-size: 13px;
+	font-weight: 700;
+	color: #494845;
+	letter-spacing: 1.0px;
+}
+
+.date {
+	font-weight: 700;
+	font-size: 30px;
+	color: #ceb888;
+	letter-spacing: 1.0px;
+}
+
+.where {
+	font-size: 13px;
+	font-weight: 700;
+	color: #f4f4f4;
+	letter-spacing: 1.0px;
+	margin-bottom: 0px;
+}
+
+a.button.learn-more {
+	text-decoration: none;
+	font-family: "Lato", sans-serif;
+	text-transform: uppercase;
+	font-size: 12pt;
+	font-weight: 400;
+	letter-spacing: -1.0px;
+	background-color: #151515;
+	color: #494845;
+	border: 2px solid #494845;
+	padding: 15px 80px;
+	-webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    margin-bottom: 25px;
+}
+
+
+a.button.learn-more:hover {
+    background-color: #151515; /* Green */
+    border-color: #282623;
+    color: #282623;
+}
+
+.skip {
+	padding-top: 20px;
+	font-size: 10px;
+	color: #f4f4f4;
+}
+
+.click{
+	font-size: 10px;
+	color: #494845;
+	text-decoration: none;
+}
